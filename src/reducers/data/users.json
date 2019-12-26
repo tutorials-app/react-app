@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Merrily",
+    "last_name": "Perche",
+    "email": "mperche0@globo.com",
+    "gender": "Female",
+    "address": "3 Del Sol Point"
+  },
+  {
+    "id": 2,
+    "first_name": "Talia",
+    "last_name": "Le Gallo",
+    "email": "tlegallo1@bizjournals.com",
+    "gender": "Female",
+    "address": "4711 Golf Course Trail"
+  },
+  {
+    "id": 3,
+    "first_name": "Truman",
+    "last_name": "Knotton",
+    "email": "tknotton2@de.vu",
+    "gender": "Male",
+    "address": "2701 Hansons Road"
+  },
+  {
+    "id": 4,
+    "first_name": "Jerald",
+    "last_name": "Smeath",
+    "email": "jsmeath3@patch.com",
+    "gender": "Male",
+    "address": "72 Summit Circle"
+  },
+  {
+    "id": 5,
+    "first_name": "Brig",
+    "last_name": "Rutgers",
+    "email": "brutgers4@google.pl",
+    "gender": "Male",
+    "address": "5071 Roth Plaza"
+  },
+  {
+    "id": 6,
+    "first_name": "Casper",
+    "last_name": "Jerg",
+    "email": "cjerg5@360.cn",
+    "gender": "Male",
+    "address": "1905 Glacier Hill Pass"
+  },
+  {
+    "id": 7,
+    "first_name": "Prudi",
+    "last_name": "MacAlaster",
+    "email": "pmacalaster6@ucoz.ru",
+    "gender": "Female",
+    "address": "5683 Rigney Pass"
+  },
+  {
+    "id": 8,
+    "first_name": "Mordy",
+    "last_name": "Shyres",
+    "email": "mshyres7@ning.com",
+    "gender": "Male",
+    "address": "088 Haas Crossing"
+  },
+  {
+    "id": 9,
+    "first_name": "Jerry",
+    "last_name": "Divell",
+    "email": "jdivell8@ycombinator.com",
+    "gender": "Male",
+    "address": "318 Arkansas Park"
+  },
+  {
+    "id": 10,
+    "first_name": "Vicky",
+    "last_name": "Brabbins",
+    "email": "vbrabbins9@behance.net",
+    "gender": "Female",
+    "address": "88 Jay Court"
+  }
+]
