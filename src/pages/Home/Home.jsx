@@ -1,5 +1,10 @@
 import React from "react";
+import Carousel from './components/Carousel'
+import Carousel2 from './components/Carousel2'
 
 export default () => {
-  return <div className="flex justify-center items-center h-64">Home</div>;
+  return <div className="">
+    <Carousel sliderWidth="50" sliderHeight="250"/>
+    <Carousel2 />
+  </div>;
 };
